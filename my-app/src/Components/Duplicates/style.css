@@ -1,0 +1,31 @@
+.cart-dublicates {
+    color: grey;
+    background: black;
+    width: 100%;
+    margin-top: 30px;
+    border-color: #1e90ff;
+}
+
+.card-header {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.status {
+    gap: 10px;
+    align-items: center;
+}
+
+.icon {
+    color: white;
+    font-size: 24px;
+}
+
+.text-size {
+    font-size: 20px;
+}
+
+.icon {
+    color: white;
+    font-size: 24px;
+}
